@@ -228,9 +228,9 @@
 
         Num_Sym {
             bindings = <
-&kp GRAVE  &kp ASTERISK  &kp PERCENT  &kp DOLLAR  &kp AT    &kp DOLLAR    &kp QUESTION  &kp EXCLAMATION  &kp PLUS           &kp EQUAL      &kp MINUS  &kp UNDER
-&trans     &kp TILDE     &kp SLASH    &kp LBKT    &kp LBRC  &kp LT        &kp GT        &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp BACKSLASH  &kp DQT    &kp SQT
-&trans     &trans        &trans       &trans      &trans    &trans        &trans        &trans           &trans             &trans         &trans     &trans
+&kp GRAVE  &kp ASTERISK  &kp PERCENT  &kp DOLLAR  &kp AT    &kp DOLLAR    &kp QUESTION  &kp EXCLAMATION  &kp PLUS           &kp EQUAL      &kp MINUS          &kp UNDER
+&kp COLON  &kp TILDE     &kp SLASH    &kp LBKT    &kp LBRC  &kp LT        &kp GT        &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp BACKSLASH  &kp SQT            &kp SEMICOLON
+&trans     &trans        &trans       &trans      &trans    &trans        &trans        &trans           &trans             &trans         &kp DOUBLE_QUOTES  &trans
                                       &trans      &trans    &trans        &trans        &trans           &trans
             >;
         };
